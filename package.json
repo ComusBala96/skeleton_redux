@@ -1,0 +1,13 @@
+{
+    "name": "@orian/skeleton_redux",
+    "description": "All redux storage are written here.",
+    "version": "1.0.0",
+    "main": "store.js",
+    "keywords": [],
+    "author": {
+        "name": "OrianSoft",
+        "email": "info@oriansoft.com"
+    },
+    "license": "MIT",
+    "dependencies": {}
+}
